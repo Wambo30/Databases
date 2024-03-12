@@ -1,2 +1,2 @@
 # Databases
-This repository contains all SQL and database projects. For the most part, I used the MySQL server and Tableau.
+This repository contains contains database projects that were implemented in SQL . For the most part, I used the MySQL server and Tableau.
